@@ -1,0 +1,3 @@
+/home/starlight/CLionProjects/joysticktest/cmake-build-debug/CMakeFiles/joysticktest.dir
+/home/starlight/CLionProjects/joysticktest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/starlight/CLionProjects/joysticktest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
